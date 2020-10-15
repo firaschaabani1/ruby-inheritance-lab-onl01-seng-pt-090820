@@ -1,7 +1,7 @@
 class Student 
  attr_accessor :knowledge
  
- def student (user)
+ def initialize (student)
    @student=student
   end
 end
